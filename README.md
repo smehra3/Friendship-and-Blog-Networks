@@ -1,6 +1,6 @@
 # Measures-of-Centrality-on-Friendship-and-Blog-Networks
 
-**Part 1 - A network of friendships at a university department, `G1`,. Each node corresponds to a person, and an edge indicates friendship. **
+**Part 1 - A network of friendships at a university department, `G1`,. Each node corresponds to a person, and an edge indicates friendship.**
 
 * Found degree centrality, closeness centrality, and normalized betweeness centrality (excluding endpoints) of a certain node
 * If a user from this network were to be given an online shopping voucher that they would send to their friends, found who will be the best candidate for this vocher. 
